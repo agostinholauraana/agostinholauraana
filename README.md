@@ -62,11 +62,3 @@
 
 * **IA e Dados - Geração Caldeira 2025** (Instituto Caldeira)
     * Foco em Suporte Técnico, IA, Automação e Análise de Dados. (Maio/2025 - Dezembro/2025)
-* **Explore Emerging Tech** (IBM Skills Build)
-    * Introdução a Computação em Nuvem, Cibersegurança, Dados e Inteligência Artificial.
-* **Introdução ao Aprendizado de Máquina e Análise de Dados** (Microsoft)
-    * Conceitos iniciais de Machine Learning e Data Analytics.
-* **Inteligência Artificial Generativa** (Microsoft)
-    * Como funciona e como utilizar a IA Generativa.
-* **Introduções Gerdau e Caldeira** (Data4All)
-    * Conceitos iniciais de Git, Análise de Dados, Soft Skills.
