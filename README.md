@@ -32,8 +32,8 @@
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Programação** | Python, Java |
-| **Desenvolvimento Web** | JavaScript, PHP |
+| **Programação** | Python |
+| **Desenvolvimento Web** | PHP |
 | **Desenvolvimento Mobile** | Dart |
 | **Banco de Dados** | MySQL |
 | **Outras Skills** | Integração com APIs e automação de processos |
