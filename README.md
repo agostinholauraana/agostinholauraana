@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Ana Laura Agostinho 👋</h1>
-  <h3>Estudante de Ciência de Dados & Inteligência Artificial | Porto Alegre, RS</h3>
+  <h3>Estudante de Sistemas de Informação | Porto Alegre, RS</h3>
 
   <p>
     <a href="https://linkedin.com/in/analauraagostinho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,9 +13,9 @@
 
 ### 🎓 Formação Acadêmica
 
-* **Bacharelado em Ciência de Dados e Inteligência Artificial**
+* **Bacharelado em Sistemas de Informação **
     * *Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)*
-    * Período: Agosto/2025 - Junho/2029
+    * Período: Agosto/2025 - Dezembro/2028
 
 * **Técnico em Informática**
     * *Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)*
@@ -32,7 +32,7 @@
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Programação** | Python |
+| **Programação** | Python | Java
 | **Desenvolvimento Web** | PHP |
 | **Desenvolvimento Mobile** | Dart |
 | **Banco de Dados** | MySQL |
